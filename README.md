@@ -19,7 +19,7 @@
 - run a test script in **scripts/run_test.sh**
 
     ```
-    $ bash run_test.sh
+    $ bash scripts/run_test.sh
     ```
     It creates a sample report named **final_report.md**
 
